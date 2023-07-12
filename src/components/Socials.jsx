@@ -19,27 +19,27 @@ const Socials = () => {
   className='hidden xl:flex ml-24'>
     <ul className='flex gap-x-4'>
       <li>
-        <a href='https://www.linkedin.com/in/batusevinc/' target='_blank'>
+        <a href='https://www.linkedin.com/in/batusevinc/' target='_blank' rel="noreferrer">
         <ImLinkedin />
         </a>  
       </li>
       <li>
-        <a href='https://github.com/BatuSevinc' target='_blank'>
+        <a href='https://github.com/BatuSevinc' target='_blank' rel="noreferrer">
         <ImGithub />
         </a>  
       </li>
       <li>
-        <a href='https://www.youtube.com' target='_blank'>
+        <a href='https://www.youtube.com' target='_blank' rel="noreferrer">
         <ImYoutube />
         </a>  
       </li>
       <li>
-        <a href='https://www.instagram.com/batusvnc/' target='_blank'>
+        <a href='https://www.instagram.com/batusvnc/' target='_blank' rel="noreferrer">
         <ImInstagram />
         </a>  
       </li>
       <li>
-        <a href='https://twitter.com/bosverbebatu' target='_blank'>
+        <a href='https://twitter.com/bosverbebatu' target='_blank' rel="noreferrer">
         <ImTwitter />
         </a>  
       </li>
