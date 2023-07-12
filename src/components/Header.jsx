@@ -1,5 +1,4 @@
 //Components
-import AnimRoutes from "./AnimRoutes";
 import MobileNav from "./MobileNav";
 import Socials from "./Socials";
 //Link
